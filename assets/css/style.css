@@ -57,6 +57,22 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 1;
 }
 
+.button{
+  display: flex;
+  align-items: center;
+  margin-top: 3rem;
+  gap: 2rem;
+}
+
+.Pbutton{
+  display: inline-block;
+    background-color: rgb(34, 155, 216);
+    color: white;
+    font-size: 1.5rem;
+    padding: 0.8em 1.6em;
+    border-radius: 50px;
+}
+
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
